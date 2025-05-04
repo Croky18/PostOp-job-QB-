@@ -10,7 +10,7 @@ Deze job laat spelers pakketten afleveren als onderdeel van een leveringsdienst.
   - Beloningen per levering
   - Locaties van afleveringen
   - NPC en voertuig instellingen
-  - Ondersteunt voor **ESX**
+  - Ondersteunt voor **QB**
 
 - **Automatisch voertuig bij start job**
 - **Interactieve leverings-animatie**
